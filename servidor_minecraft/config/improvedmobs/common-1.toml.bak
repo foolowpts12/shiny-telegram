@@ -1,5 +1,5 @@
 
-#Default difficulty caps at 50
+#Default difficulty caps at 40
 [general]
 	#Disable/Enables the whole difficulty scaling of this mod. Requires a mc restart
 	"Enable difficulty scaling" = false

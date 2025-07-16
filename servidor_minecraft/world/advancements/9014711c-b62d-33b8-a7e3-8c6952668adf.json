@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-16 18:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-04 20:32:26 +0000"
@@ -308,6 +314,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-11 18:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-16 20:50:19 +0000"
     },
     "done": true
   },
@@ -1291,6 +1303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-16 18:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-07 19:56:28 +0000"
@@ -1408,6 +1426,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-04 21:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2025-07-16 21:12:38 +0000"
     },
     "done": true
   },
@@ -2594,9 +2618,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-16 18:30:40 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-07-16 20:43:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-07-05 02:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2025-07-16 20:04:30 +0000"
     },
     "done": true
   },
@@ -2816,6 +2858,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-07-16 21:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-07 18:52:21 +0000"
@@ -2993,6 +3041,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-07-10 21:15:02 +0000"
+    },
+    "done": true
+  },
+  "enderite:recipes/decorations/end_respawn_anchor": {
+    "criteria": {
+      "has_respawn_anchor": "2025-07-16 19:53:38 +0000"
     },
     "done": true
   },
@@ -3497,6 +3551,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-07-16 20:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-07-04 20:32:26 +0000"
@@ -3566,6 +3626,12 @@
   "cataclysm:kill_ender_guardian": {
     "criteria": {
       "enderguardian": "2025-07-14 17:13:22 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-07-16 18:03:58 +0000"
     },
     "done": true
   },
@@ -3654,6 +3720,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-07-16 18:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-07-04 21:31:57 +0000"
@@ -3681,6 +3753,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-07-11 18:06:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-07-16 18:58:32 +0000"
     },
     "done": true
   },
@@ -3784,9 +3862,11 @@
       "minecraft:birch_forest": "2025-07-04 19:51:17 +0000",
       "minecraft:windswept_hills": "2025-07-08 19:06:42 +0000",
       "minecraft:wooded_badlands": "2025-07-08 19:26:39 +0000",
+      "minecraft:bamboo_jungle": "2025-07-16 20:40:06 +0000",
       "minecraft:badlands": "2025-07-08 19:27:59 +0000",
       "minecraft:beach": "2025-07-05 20:18:47 +0000",
       "minecraft:dark_forest": "2025-07-08 18:38:43 +0000",
+      "minecraft:mangrove_swamp": "2025-07-16 20:41:19 +0000",
       "minecraft:sparse_jungle": "2025-07-08 19:24:16 +0000",
       "minecraft:river": "2025-07-04 21:03:17 +0000",
       "minecraft:lukewarm_ocean": "2025-07-08 19:21:01 +0000",
@@ -3798,6 +3878,7 @@
       "minecraft:forest": "2025-07-04 19:48:40 +0000",
       "minecraft:lush_caves": "2025-07-10 20:26:54 +0000",
       "minecraft:deep_cold_ocean": "2025-07-08 19:01:52 +0000",
+      "minecraft:ice_spikes": "2025-07-16 20:22:40 +0000",
       "minecraft:frozen_ocean": "2025-07-08 18:54:54 +0000",
       "minecraft:desert": "2025-07-08 19:26:50 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-10 20:17:43 +0000",
@@ -3811,6 +3892,7 @@
       "minecraft:old_growth_birch_forest": "2025-07-07 19:34:38 +0000",
       "minecraft:deep_dark": "2025-07-10 19:54:20 +0000",
       "minecraft:meadow": "2025-07-04 21:04:28 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-16 17:58:46 +0000",
       "minecraft:savanna": "2025-07-08 19:13:52 +0000",
       "minecraft:plains": "2025-07-04 21:02:05 +0000"
     },
@@ -3885,6 +3967,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-07-07 22:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-16 18:30:40 +0000"
     },
     "done": true
   },
@@ -4205,6 +4293,7 @@
       "suspicious_stew": "2025-07-05 20:22:35 +0000",
       "golden_carrot": "2025-07-07 20:21:35 +0000",
       "cooked_chicken": "2025-07-11 18:01:46 +0000",
+      "enchanted_golden_apple": "2025-07-16 20:06:06 +0000",
       "carrot": "2025-07-07 18:43:24 +0000"
     },
     "done": false
@@ -4314,6 +4403,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-04 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-16 18:30:40 +0000"
     },
     "done": true
   },
@@ -4575,6 +4670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-16 18:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-07-04 21:05:38 +0000"
@@ -4796,6 +4897,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-08 19:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-16 18:30:40 +0000"
     },
     "done": true
   },
