@@ -236,3 +236,8 @@ java.lang.IllegalStateException: Field f_40687_ is not private and an instance f
 [23Jul2025 22:04:26.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Iron Golem
 [23Jul2025 22:04:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Sweet Dreams]
 [23Jul2025 22:06:43.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Suit Up]
+[23Jul2025 22:10:19.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by Skeleton
+[23Jul2025 22:11:28.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Suit Up]
+[23Jul2025 22:12:48.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 burned to death
+[23Jul2025 22:15:22.134] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/25132, l='ServerLevel[world]', x=645.50, y=53.00, z=-2248.50] as it would cause deadlock
+[23Jul2025 22:15:27.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Not Today, Thank You]
