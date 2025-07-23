@@ -1,0 +1,6 @@
+
+[Spawnrates]
+	"masked stalking spawnrate modifier" = 10000.0
+	"masked behind spawnrate modifier" = 8000.0
+	"masked running spawnrate modifier" = 9000.0
+
