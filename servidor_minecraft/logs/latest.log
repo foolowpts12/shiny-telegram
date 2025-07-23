@@ -257,3 +257,8 @@ java.lang.IllegalStateException: Field f_40687_ is not private and an instance f
 [23Jul2025 22:43:22.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of blackdesfail) moved wrongly! 1.2861972627815703
 [23Jul2025 22:51:29.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Hot Stuff]
 [23Jul2025 22:51:36.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was blown up by Creeper
+[23Jul2025 23:02:47.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Played sound minecraft:entity.creeper.hurt to blackdesfail]
+[23Jul2025 23:02:54.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: Played sound minecraft:entity.creeper.primed to blackdesfail]
+[23Jul2025 23:03:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The sound is too far away to be heard
+[23Jul2025 23:05:11.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[23Jul2025 23:07:14.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
