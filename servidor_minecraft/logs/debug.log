@@ -2182,3 +2182,16 @@ java.lang.IllegalStateException: Field f_40687_ is not private and an instance f
 [23Jul2025 23:04:16.021] [Server thread/DEBUG] [Better Days/]: Sleep cycle complete on dimension: minecraft:overworld.
 [23Jul2025 23:05:11.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
 [23Jul2025 23:07:14.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[23Jul2025 23:08:31.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 23:08:31.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 23:11:33.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[23Jul2025 23:11:49.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[23Jul2025 23:12:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was retired
+[23Jul2025 23:12:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[23Jul2025 23:12:30.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[23Jul2025 23:12:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was retired
+[23Jul2025 23:12:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[23Jul2025 23:12:58.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was retired
+[23Jul2025 23:13:13.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 was shot by Skeleton
+[23Jul2025 23:13:31.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 23:13:31.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
