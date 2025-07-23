@@ -448,7 +448,8 @@
       "beef": "2025-07-22 23:51:25 +0000",
       "bread": "2025-07-23 21:19:10 +0000",
       "rotten_flesh": "2025-07-23 21:30:08 +0000",
-      "cooked_chicken": "2025-07-23 21:04:23 +0000"
+      "cooked_chicken": "2025-07-23 21:04:23 +0000",
+      "carrot": "2025-07-23 21:35:26 +0000"
     },
     "done": false
   },
@@ -798,6 +799,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-23 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/anubis_sheathed": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 21:25:03 +0000"
@@ -864,6 +877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-23 21:01:14 +0000"
@@ -903,6 +922,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-23 20:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-23 21:35:44 +0000"
     },
     "done": true
   },
@@ -1002,9 +1027,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/requiem_arrow": {
     "criteria": {
       "has_arrow": "2025-07-23 21:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
     },
     "done": true
   },
@@ -1068,6 +1105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 21:25:03 +0000"
@@ -1107,6 +1150,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 21:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
     },
     "done": true
   },
@@ -1278,6 +1327,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-23 21:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-23 20:59:46 +0000"
@@ -1386,6 +1447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-23 21:27:36 +0000"
@@ -1482,6 +1549,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-23 21:01:41 +0000"
@@ -1506,6 +1585,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-23 21:38:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-23 20:59:46 +0000"
@@ -1521,6 +1606,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-23 20:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
     },
     "done": true
   },
@@ -1569,6 +1660,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 21:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-23 21:38:49 +0000"
     },
     "done": true
   },

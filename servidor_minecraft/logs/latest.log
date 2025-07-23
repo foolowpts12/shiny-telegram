@@ -222,3 +222,6 @@ java.lang.IllegalStateException: Field f_40687_ is not private and an instance f
 [23Jul2025 21:32:24.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10369, l='ServerLevel[world]', x=190.18, y=63.00, z=-1952.51] died, message: 'Farmer was slain by Zombie'
 [23Jul2025 21:33:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was doomed to fall
 [23Jul2025 21:34:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was doomed to fall
+[23Jul2025 21:38:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [blackdesfail: The difficulty has been set to Hard]
+[23Jul2025 21:38:45.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Diamonds!]
+[23Jul2025 21:38:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Diamonds!]
