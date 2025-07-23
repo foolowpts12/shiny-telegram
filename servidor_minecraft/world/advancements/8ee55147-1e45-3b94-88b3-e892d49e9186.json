@@ -502,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-23 23:21:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-07-23 21:26:40 +0000"
@@ -613,6 +619,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-07-23 21:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-23 23:21:33 +0000"
     },
     "done": true
   },
@@ -826,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-23 23:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-07-23 22:24:04 +0000"
@@ -1030,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-23 23:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-23 21:25:24 +0000"
@@ -1153,6 +1177,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-07-23 22:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-07-23 23:26:15 +0000"
     },
     "done": true
   },
@@ -1321,6 +1351,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-23 21:16:39 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/knife_bundle": {
+    "criteria": {
+      "has_knife": "2025-07-23 23:18:35 +0000"
     },
     "done": true
   },
