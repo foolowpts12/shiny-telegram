@@ -883,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-23 21:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-23 21:01:14 +0000"
@@ -898,6 +904,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-23 21:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-23 21:51:17 +0000"
     },
     "done": true
   },
@@ -1045,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-23 21:51:17 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/stand_disc": {
     "criteria": {
       "has_arrow": "2025-07-23 21:03:53 +0000"
@@ -1162,6 +1180,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-23 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-23 21:51:17 +0000"
     },
     "done": true
   },

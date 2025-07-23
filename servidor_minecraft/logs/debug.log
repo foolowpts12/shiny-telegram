@@ -2110,3 +2110,8 @@ java.lang.IllegalStateException: Field f_40687_ is not private and an instance f
 [23Jul2025 21:38:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Diamonds!]
 [23Jul2025 21:43:30.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jul2025 21:43:31.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 21:48:30.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 21:48:31.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 21:51:57.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Hot Stuff]
+[23Jul2025 21:53:30.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 21:53:31.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

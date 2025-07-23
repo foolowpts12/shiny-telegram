@@ -843,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-23 21:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-23 21:25:32 +0000"
@@ -870,6 +876,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-23 21:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-23 21:46:28 +0000"
     },
     "done": true
   },
@@ -912,6 +924,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-23 21:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-23 21:46:28 +0000"
     },
     "done": true
   },
@@ -1067,6 +1085,12 @@
       "minecraft:zombie": "2025-07-23 21:24:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-23 21:46:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
@@ -1268,6 +1292,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-23 21:45:44 +0000",
       "cooked_mutton": "2025-07-23 20:54:38 +0000",
       "cooked_beef": "2025-07-23 21:35:58 +0000",
       "porkchop": "2025-07-23 21:31:56 +0000",
@@ -1276,6 +1301,12 @@
       "carrot": "2025-07-23 21:16:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-23 21:46:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1421,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-23 21:46:28 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/building_blocks/hot_sand_block": {
     "criteria": {
       "has_magma_block": "2025-07-23 21:13:19 +0000"
@@ -1448,6 +1485,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-23 21:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-23 21:46:28 +0000"
     },
     "done": true
   },
